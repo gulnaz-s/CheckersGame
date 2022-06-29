@@ -1,7 +1,7 @@
 # Checkers Game (AKA Draughts)
 A checkers game written in Python.
 
-## features 
+## Features 
 
 - Graphical Checkers Game with AI support
 - Machine (red checkers) always chooses the most optimal strategy
