@@ -8,8 +8,8 @@ A checkers game written in Python.
 
 ## To play
 
-Download all files into one folder
-Run "main.py"
+- Download all files into one folder
+- Run "main.py"
 
 ![image](https://user-images.githubusercontent.com/90425941/176352256-110e0393-1972-4eea-9131-022e50a9b273.png)
 ![image](https://user-images.githubusercontent.com/90425941/176351951-bfd4503d-aa0d-4091-8d04-8d666aa3ee90.png)
