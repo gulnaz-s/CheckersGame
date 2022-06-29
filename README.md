@@ -1,5 +1,5 @@
 # Checkers Game (AKA Draughts)
-A checkers game written in Python.
+A Checkers game written in Python.
 
 ## Features 
 
